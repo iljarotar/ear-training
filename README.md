@@ -1,6 +1,6 @@
 # Ear Training command line tool
 
-This is a very simple command line tool for generating ear practice exercises.
+This is a simple command line tool for generating ear practice exercises.
 
 ## Random sight singing tables
 
